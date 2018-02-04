@@ -1,0 +1,19 @@
+{
+    "name": "tamak",
+    "description": "Day to Day",
+    "type": "library",
+    "authors": [
+        {
+            "name": "sohan",
+            "email": "latasohangoli@gmail.com"
+        }
+    ],
+	"license": "proprietary",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "tamak\\": "src/"
+        }
+    },	
+    "require": {}
+}
